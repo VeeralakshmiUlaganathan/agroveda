@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000095527711",
+    "project_id": "agroveda-30ca7",
+    "storage_bucket": "agroveda-30ca7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000095527711:android:d311ef8c180a8f95c5762a",
+        "android_client_info": {
+          "package_name": "com.example.agroveda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000095527711-thlfjtcu7vnh1lgl2h6jlv7g8068s3j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agroveda",
+            "certificate_hash": "10c54a3dc5a138e5f1a8fcdeb7feb1008155dd94"
+          }
+        },
+        {
+          "client_id": "1000095527711-9kpsgh2a0jeof47bp6amrdng3k724j59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWfstgi2dHZHPNZLddlYAu_Z7IYYQk4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000095527711-9kpsgh2a0jeof47bp6amrdng3k724j59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

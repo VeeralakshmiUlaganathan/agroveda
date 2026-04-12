@@ -1,0 +1,419 @@
+{
+  "Apple___Apple_scab": {
+    "pathogen": "Fungal (Venturia inaequalis)",
+    "chemical": "Myclobutanil 10% WP",
+    "dosage": "1 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Sulfur spray 0.3%",
+    "precautions": ["Wear gloves and mask", "Avoid spraying before rain"]
+  },
+
+  "Apple___Black_rot": {
+    "pathogen": "Fungal (Botryosphaeria obtusa)",
+    "chemical": "Captan 50% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 7,
+    "frequency": "Every 7-10 days",
+    "organic": "Copper fungicide 0.25%",
+    "precautions": ["Avoid midday spray"]
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "pathogen": "Fungal (Gymnosporangium juniperi)",
+    "chemical": "Mancozeb 75% WP",
+    "dosage": "2.5 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Neem oil 3%",
+    "precautions": ["Spray early morning"]
+  },
+
+  "Apple___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Regular monitoring",
+    "organic": "Maintain pruning and hygiene",
+    "precautions": ["Monitor weekly"]
+  },
+
+  "Blueberry___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Regular inspection",
+    "organic": "Soil pH maintenance",
+    "precautions": ["Avoid over irrigation"]
+  },
+
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "pathogen": "Fungal (Podosphaera clandestina)",
+    "chemical": "Hexaconazole 5% EC",
+    "dosage": "1 ml per liter",
+    "spray_volume_per_acre": "180 liters",
+    "phi_days": 10,
+    "frequency": "Every 10 days",
+    "organic": "Sulfur 0.3%",
+    "precautions": ["Avoid high temperature spray"]
+  },
+
+  "Cherry_(including_sour)___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Monitoring",
+    "organic": "Balanced fertilization",
+    "precautions": []
+  },
+
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "pathogen": "Fungal (Cercospora zeae-maydis)",
+    "chemical": "Azoxystrobin 23% SC",
+    "dosage": "1 ml per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 14 days",
+    "organic": "Neem oil 3%",
+    "precautions": ["Rotate fungicides"]
+  },
+
+  "Corn_(maize)___Common_rust_": {
+    "pathogen": "Fungal (Puccinia sorghi)",
+    "chemical": "Propiconazole 25% EC",
+    "dosage": "1 ml per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Sulfur spray",
+    "precautions": ["Use protective clothing"]
+  },
+
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "pathogen": "Fungal (Exserohilum turcicum)",
+    "chemical": "Mancozeb 75% WP",
+    "dosage": "2.5 g per liter",
+    "spray_volume_per_acre": "220 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Copper oxychloride 0.3%",
+    "precautions": ["Avoid waterlogging"]
+  },
+
+  "Corn_(maize)___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Monitoring",
+    "organic": "Crop rotation",
+    "precautions": []
+  },
+
+  "Grape___Black_rot": {
+    "pathogen": "Fungal (Guignardia bidwellii)",
+    "chemical": "Mancozeb 75% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 21,
+    "frequency": "Every 10 days",
+    "organic": "Neem oil 3%",
+    "precautions": ["Prune infected vines"]
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "pathogen": "Fungal complex",
+    "chemical": "Carbendazim 50% WP",
+    "dosage": "1 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 21,
+    "frequency": "Every 14 days",
+    "organic": "Copper fungicide",
+    "precautions": ["Remove infected wood"]
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "pathogen": "Fungal",
+    "chemical": "Chlorothalonil 75% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Neem oil",
+    "precautions": []
+  },
+
+  "Grape___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Routine monitoring",
+    "organic": "Good pruning practices",
+    "precautions": []
+  },
+
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "pathogen": "Bacterial (Candidatus Liberibacter)",
+    "chemical": "Imidacloprid 17.8% SL",
+    "dosage": "0.5 ml per liter",
+    "spray_volume_per_acre": "250 liters",
+    "phi_days": 30,
+    "frequency": "Monthly",
+    "organic": "Neem oil 3%",
+    "precautions": ["Control psyllid vector"]
+  },
+
+  "Peach___Bacterial_spot": {
+    "pathogen": "Bacterial (Xanthomonas campestris)",
+    "chemical": "Copper hydroxide 77% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 7-10 days",
+    "organic": "Copper spray",
+    "precautions": []
+  },
+
+  "Peach___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Routine monitoring",
+    "organic": "Balanced nutrients",
+    "precautions": []
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "pathogen": "Bacterial (Xanthomonas)",
+    "chemical": "Copper oxychloride 50% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "180 liters",
+    "phi_days": 10,
+    "frequency": "Every 7 days",
+    "organic": "Neem oil 3%",
+    "precautions": []
+  },
+
+  "Pepper,_bell___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Routine monitoring",
+    "organic": "Soil drainage management",
+    "precautions": []
+  },
+
+  "Potato___Early_blight": {
+    "pathogen": "Fungal (Alternaria solani)",
+    "chemical": "Chlorothalonil 75% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Neem oil 3%",
+    "precautions": []
+  },
+
+  "Potato___Late_blight": {
+    "pathogen": "Fungal (Phytophthora infestans)",
+    "chemical": "Mancozeb 75% WP",
+    "dosage": "2.5 g per liter",
+    "spray_volume_per_acre": "220 liters",
+    "phi_days": 14,
+    "frequency": "Every 7 days",
+    "organic": "Copper fungicide",
+    "precautions": []
+  },
+
+  "Potato___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Routine monitoring",
+    "organic": "Crop rotation",
+    "precautions": []
+  },
+
+  "Raspberry___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Monitoring",
+    "organic": "Pruning",
+    "precautions": []
+  },
+
+  "Soybean___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Monitoring",
+    "organic": "Weed control",
+    "precautions": []
+  },
+
+  "Squash___Powdery_mildew": {
+    "pathogen": "Fungal (Podosphaera xanthii)",
+    "chemical": "Sulfur 80% WP",
+    "dosage": "3 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 7,
+    "frequency": "Every 7 days",
+    "organic": "Neem oil 3%",
+    "precautions": []
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "pathogen": "Fungal (Diplocarpon earlianum)",
+    "chemical": "Captan 50% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "180 liters",
+    "phi_days": 7,
+    "frequency": "Every 10 days",
+    "organic": "Copper fungicide",
+    "precautions": []
+  },
+
+  "Strawberry___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Monitoring",
+    "organic": "Proper mulching",
+    "precautions": []
+  },
+
+  "Tomato___Bacterial_spot": {
+    "pathogen": "Bacterial (Xanthomonas)",
+    "chemical": "Copper oxychloride 50% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 10,
+    "frequency": "Every 7 days",
+    "organic": "Neem oil 3%",
+    "precautions": []
+  },
+
+  "Tomato___Early_blight": {
+    "pathogen": "Fungal (Alternaria solani)",
+    "chemical": "Chlorothalonil 75% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Neem oil",
+    "precautions": []
+  },
+
+  "Tomato___Late_blight": {
+    "pathogen": "Fungal (Phytophthora infestans)",
+    "chemical": "Mancozeb 75% WP",
+    "dosage": "2.5 g per liter",
+    "spray_volume_per_acre": "220 liters",
+    "phi_days": 14,
+    "frequency": "Every 7 days",
+    "organic": "Copper fungicide",
+    "precautions": []
+  },
+
+  "Tomato___Leaf_Mold": {
+    "pathogen": "Fungal (Passalora fulva)",
+    "chemical": "Azoxystrobin 23% SC",
+    "dosage": "1 ml per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Neem oil",
+    "precautions": []
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "pathogen": "Fungal (Septoria lycopersici)",
+    "chemical": "Mancozeb 75% WP",
+    "dosage": "2 g per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 7 days",
+    "organic": "Copper spray",
+    "precautions": []
+  },
+
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "pathogen": "Pest (Tetranychus urticae)",
+    "chemical": "Abamectin 1.9% EC",
+    "dosage": "0.5 ml per liter",
+    "spray_volume_per_acre": "180 liters",
+    "phi_days": 7,
+    "frequency": "Every 7 days",
+    "organic": "Neem oil 5%",
+    "precautions": ["Spray underside of leaves"]
+  },
+
+  "Tomato___Target_Spot": {
+    "pathogen": "Fungal (Corynespora cassiicola)",
+    "chemical": "Azoxystrobin 23% SC",
+    "dosage": "1 ml per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 14,
+    "frequency": "Every 10 days",
+    "organic": "Copper fungicide",
+    "precautions": []
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "pathogen": "Viral (Begomovirus)",
+    "chemical": "Imidacloprid 17.8% SL (vector control)",
+    "dosage": "0.5 ml per liter",
+    "spray_volume_per_acre": "200 liters",
+    "phi_days": 15,
+    "frequency": "Every 10 days",
+    "organic": "Neem oil 5%",
+    "precautions": ["Control whitefly vector"]
+  },
+
+  "Tomato___Tomato_mosaic_virus": {
+    "pathogen": "Viral (TMV)",
+    "chemical": "No direct chemical cure",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Remove infected plants",
+    "organic": "Sanitation and resistant varieties",
+    "precautions": ["Disinfect tools"]
+  },
+
+  "Tomato___healthy": {
+    "pathogen": "None",
+    "chemical": "Not required",
+    "dosage": "N/A",
+    "spray_volume_per_acre": "N/A",
+    "phi_days": 0,
+    "frequency": "Routine monitoring",
+    "organic": "Balanced irrigation",
+    "precautions": []
+  }
+}

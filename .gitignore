@@ -1,0 +1,24 @@
+# ❌ Ignore dataset
+Except_Project/
+
+# ❌ Ignore virtual env
+.venv/
+AGROVEDA_BACKEND/.venv/
+
+# ❌ Ignore models
+*.h5
+AGROVEDA_BACKEND/model/
+
+# Flutter
+build/
+.dart_tool/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+.zip
