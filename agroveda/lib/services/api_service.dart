@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class ApiService {
 
-  static const String baseUrl = "http://10.83.44.230:5000";
+  const baseUrl = "https://agroveda-backend.onrender.com";
 
   static Future<Map<String, dynamic>?> predictDisease(File imageFile) async {
     try {
